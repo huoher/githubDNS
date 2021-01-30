@@ -1,2 +1,2 @@
-start python C:\Users\qiuchi\github\新建文件夹\saveHost.py
+start python .\saveHost.py
 ipconfig /flushdns
